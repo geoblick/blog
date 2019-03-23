@@ -8,7 +8,7 @@ module.exports = {
     isPost: false
   },
   api: {
-    baseURL: 'https://jovial-goldberg-232f4e.netlify.com',
-    browserBaseURL: 'https://jovial-goldberg-232f4e.netlify.com'
+    baseURL: 'http://localhost:3000',
+    browserBaseURL: 'https://jovial-goldberg-232f4e.netlify.com/'
   }
 }
