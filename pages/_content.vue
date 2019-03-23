@@ -13,7 +13,7 @@
   					</p>
   					<div class="d-flex align-items-center">
   						<img class="rounded-circle" src="/img/demo/avatar2.jpg" width="70">
-  						<small class="ml-2">{{post.autor}}<span class="text-muted d-block">A few hours ago &middot; 5 min. read</span>
+  						<small class="ml-2">{{post.author}}<span class="text-muted d-block">A few hours ago &middot; 5 min. read</span>
   						</small>
   					</div>
   				</div>

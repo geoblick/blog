@@ -1,6 +1,6 @@
 ---
 title: Das ist ein neuer Titel
-autor: Arthur Rahman
+author: Arthur Rahman
 ---
 
 # Dillinger
