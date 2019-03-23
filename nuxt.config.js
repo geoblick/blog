@@ -7,6 +7,7 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'Nuxtent project' }
     ],
     script: [
+      { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js'} ,
       { src: '/js/vendor/jquery.min.js' },
       { src: '/js/vendor/popper.min.js' },
       { src: '/js/vendor/bootstrap.min.js' },
