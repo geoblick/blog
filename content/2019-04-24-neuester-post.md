@@ -1,5 +1,5 @@
 ---
 title: NEUESTER POST
-author: Finefinefine
+author: Fine
 ---
 Sehr spannend und sehr interessant!
