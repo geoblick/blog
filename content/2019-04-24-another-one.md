@@ -1,6 +1,6 @@
 ---
 title: another one
-author: your boy
+author: your boy_2
 ---
 yoyoyoyo cooler text
 
