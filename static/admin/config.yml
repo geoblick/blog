@@ -17,5 +17,5 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Start time", name: "start", widget: "datetime", default: ""}
+      - {label: "Start time", name: "start", widget: "datetime", default: "", dateFormat:false}
       - {label: "Body", name: "body", widget: "markdown"}
